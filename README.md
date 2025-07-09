@@ -20,7 +20,7 @@ All Eyes on You is a powerful Chrome extension that helps you monitor screen tim
 
 1️⃣ Download or clone this repository:
 
-git clone https://github.com//All-Eyes-On-You.git
+https://github.com/AbishekSomu/AI-Extension.git
 
 2️⃣ Open Chrome and go to chrome://extensions/.
 3️⃣ Enable Developer Mode (toggle in the top-right).
@@ -67,11 +67,11 @@ Storage: Chrome Local Storage
 
 💡 Meet the Team
 
+👨‍💻 @Abishek S – Backend & Chrome API
 👨‍💻 @Ajmal Khan M – Developer & AI Integration
-👨‍💻 @Darshan – Frontend & UI/UX
-👨‍💻 @Abishiek – Backend & Chrome API
-👨‍💻 @Harsavardhan – AI & Data Analysis
-👨‍💻 @Aswin – Feature Enhancements
+👨‍💻 @Darshaan SP – Frontend & UI/UX
+👨‍💻 @Harsavardhan M – AI & Data Analysis
+👨‍💻 @Ashwin CS– Feature Enhancements
 
 
 ---
